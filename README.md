@@ -1,5 +1,5 @@
-# OpenUBI
-OpenUBI website and tools - coming soon!
+# UBI Center
+Website and tools for the UBI Center - coming soon!
 
 <br><br><br><br>
-<img src="https://github.com/open-ubi/OpenUBI/blob/master/logos/square_blue_logo.png" alt="OpenUBI logo" width="50px" height="50px">
+<img src="https://github.com/UBICenter/UBICenter/blob/master/logos/square_blue_logo.png" alt="UBI Center logo" width="50px" height="50px">
