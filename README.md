@@ -1,5 +1,13 @@
-# UBI Center
-Website and tools for the UBI Center - coming soon!
+# microdf
+Generates data for UBI Center's Plan Explorer tool and visualizations.
 
-<br><br><br><br>
-<img src="https://github.com/UBICenter/UBICenter/blob/master/logos/square_blue_logo.png" alt="UBI Center logo" width="50px" height="50px">
+## Installation
+Install with:
+
+    pip install git+git://github.com/UBICenter/ubi-center.git
+
+## Questions
+Contact the maintainer, Max Ghenis (max@ubicenter.org).
+
+## Citation
+You may cite the source of your analysis as "ubicenter release #.#.#, author's calculations."
